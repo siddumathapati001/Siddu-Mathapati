@@ -1,6 +1,3 @@
-# Siddu-Mathapati
-Personal GitHub profile showcasing data science skills and projects
-
 # Sidramesh M Mathapati
 
 Aspiring Data Scientist with a strong foundation in statistics, data analysis, and machine learning.
