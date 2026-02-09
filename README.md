@@ -21,7 +21,7 @@ I enjoy translating raw data into clear insights that support decision-making.
 ## Projects
 - **E-Commerce SQL Analysis**  
   End-to-end SQL analytics project covering customer behavior, retention, revenue leakage, and seller risk.  
-  Repo: https://github.com/yourusername/ecommerce-sql-analysis
+  Repo: https://github.com/siddumathapati001/ecommerce-sql-analysis
   
 - **House Price Prediction System**  
   Regression-based ML project with feature engineering, EDA, and model comparison.
