@@ -1,22 +1,28 @@
 # Sidramesh M Mathapati
 
-Aspiring Data Scientist with a strong foundation in statistics, data analysis, and machine learning.
-Focused on building end-to-end data science projects using real-world datasets and business use cases.
+I’m a Data Analytics / Data Science enthusiast with a strong focus on SQL-driven analysis and business problem solving.  
+I enjoy translating raw data into clear insights that support decision-making.
 
 ---
 
 ## Core Skills
 - Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
-- SQL (PostgreSQL, MySQL)
+- SQL (joins, CTEs, window functions)
+- Analytics (Cohort analysis, retention, revenue analysis)
 - Statistics (EDA, Hypothesis Testing, Descriptive & Inferential Statistics)
 - Machine Learning (Linear Regression, Logistic Regression, Decision Trees, Random Forest)
 - Model Evaluation (RMSE, R², Accuracy, Precision, Recall, F1-score, ROC-AUC)
 - Data Visualization (Power BI, basic DAX)
 - Excel (Pivot Tables, Power Query, Power Pivot)
+  
 
 ---
 
 ## Projects
+- **E-Commerce SQL Analysis**  
+  End-to-end SQL analytics project covering customer behavior, retention, revenue leakage, and seller risk.  
+  Repo: https://github.com/yourusername/ecommerce-sql-analysis
+  
 - **House Price Prediction System**  
   Regression-based ML project with feature engineering, EDA, and model comparison.
 
